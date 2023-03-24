@@ -1,2 +1,2 @@
 # cpp_primer_learn
-学点c++的
+cpp语法
